@@ -1,8 +1,16 @@
 ---
 title: "About"
+
+format:
+  html:
+    other-links:
+      - text: NASA Open Data
+        href: https://data.nasa.gov/
 ---
 
-About this site
+Based on Melissa Van Bussel's tutorial: <https://www.youtube.com/watch?v=arzBRW5XIkg>
+
+Wanted to make a 2025-Mac version of her tutorial due to differences. 
 
 ```{r}
 1 + 1

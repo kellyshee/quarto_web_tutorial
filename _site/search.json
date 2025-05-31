@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "How to Create this Quarto Website with Github",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n{group = “test”}\n{group = “test”}"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Based on Melissa Van Bussel’s tutorial: https://www.youtube.com/watch?v=arzBRW5XIkg\nWanted to make a 2025-Mac version of her tutorial due to differences.\n\n1 + 1\n\n[1] 2"
   }
 ]

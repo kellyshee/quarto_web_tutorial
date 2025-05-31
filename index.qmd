@@ -10,6 +10,6 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 1 + 1
 ```
 
-![](images/01_create_project.png){.lightbox}
+![test](images/01_create_project.png){group = "test"}
 
-![](images/02_project_created.png)
+![test 2](images/02_project_created.png){group = "test"}
